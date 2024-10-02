@@ -35,3 +35,9 @@ To run the application locally, follow these steps:
    ```bash
    git clone <repository-url>
    cd <repository-directory>
+
+Usage
+Open the web application in your browser.
+Input a chemical expression into the provided input field.
+Click on the "Calculate" button to evaluate the reaction.
+View the calculated results and download them in XML format if needed.
