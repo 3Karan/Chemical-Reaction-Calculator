@@ -7,10 +7,8 @@ The Chemical Reaction Calculator Web Application is a powerful tool designed to 
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Endpoints](#endpoints)
-- [License](#license)
+
 
 ## Overview
 This web application allows users to perform chemical calculations based on user-defined expressions. It evaluates reactions involving addition and subtraction and provides a detailed history of each calculation step.
@@ -28,16 +26,10 @@ This web application allows users to perform chemical calculations based on user
 - **HTML/CSS:** For front-end development.
 - **JavaScript:** For dynamic client-side interactions.
 
-## Installation
-To run the application locally, follow these steps:
+## Usage
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+1. Open the web application in your browser.
+2. Input a chemical expression into the provided input field.
+3. Click on the **"Calculate"** button to evaluate the reaction.
+4. View the calculated results and download them in XML format if needed.
 
-Usage
-Open the web application in your browser.
-Input a chemical expression into the provided input field.
-Click on the "Calculate" button to evaluate the reaction.
-View the calculated results and download them in XML format if needed.
